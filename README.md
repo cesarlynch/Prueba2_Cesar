@@ -133,3 +133,9 @@ Esto dejó el proyecto disponible públicamente en GitHub, incluyendo el Dockerf
 ```bash
 docker build -t nagios-core .
 
+
+
+---------------------Usuario de nagios------------------
+Usuario: nagiosadmin
+contraseña: nagios
+
