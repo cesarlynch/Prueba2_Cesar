@@ -1,3 +1,6 @@
+# Usuario Nagios:  nagiosadmin
+# Contraseña: nagios
+
 # Comencé por preparar el entorno en una instancia EC2 con Ubuntu, actualizando los paquetes del sistema operativo mediante:
 
 sudo apt update && sudo apt upgrade -y
